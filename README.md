@@ -6,16 +6,10 @@ This repository contains the official implementation of AUG-MRE, a novel approac
 
 ## 📌News
 
-[2025.] - 👏👏👏The training code are released!
-
-[2025.] - 🎉paper has been accepted by ...
-
-[2025.] - The evaluation code released.
-
 [2025.] - 🧨We released the latest checkpoint(v1.1) and inference code,in here.
 [2025.] - The paper is available at here
 
-[2025.02.19] - The repository was build!
+[2025.02.19] - The repository was build!, we need to go faster
 
 ## ⏰TODOs
 
@@ -29,24 +23,35 @@ This repository contains the official implementation of AUG-MRE, a novel approac
 
 ## 💡Methodology
 
+Will be released later
+
 ## 📈Dataset
 
 ### 1. CASME2
 
-2.CASME II
+### 2. CASME II
 
-3.SAMM
+### 3. SAMM
 
 ## 🛠Installation
 
-
+Will be released later
 
 ## 🔮Inference
 
-
+Will be released later
 
 ## 📈Evaluation
 
-
+Will be released later
 
 ## 🚂Training
+
+Will be released later
+
+## Citation
+
+
+
+
+ 
